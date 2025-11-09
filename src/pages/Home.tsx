@@ -22,7 +22,7 @@ function Home() {
     {
       company: "Meson Agency",
       position: "Account Executive",
-      dateRange: "Jun 2020 - Dec 2021",
+      dateRange: "Feb 2022 - Dec 2024",
       responsibilities: [
         "Built and managed enterprise level contracts with some of Australia's largest Real Estate Companies",
         "3x Company Revenue and clients",
@@ -32,7 +32,7 @@ function Home() {
     {
       company: "McDonalds",
       position: "Department Manager",
-      dateRange: "Mar 2018 - Feb 2021",
+      dateRange: "Mar 2018 - Feb 2022",
       responsibilities: [
         "Ran the day to day operations of the store",
         "Led a team of over 20 staff",
