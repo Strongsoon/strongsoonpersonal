@@ -14,9 +14,10 @@ function Home() {
       position: "API Developer",
       dateRange: "Jan 2025 - Present",
       responsibilities: [
-        "Secure API implementation between existing infrastructure and third party CRM's like Hubspot, Salesforce and Agentbox",
-        "Built Client and Internal facing apps using WeWeb (front end) and Xano (back end) for day to day operations",
-        "Helped guide a team of 2 developers in creating a custom calling system for real estate agents and effectively integrating it with existing software",
+        "Integrated Xano backend services with encrypted API calls to securely connect to front-end applications",
+        "Built a custom internal CRM and Sales management system to improve workflow automation and data visibility for staff",
+        "Built client-facing and internal apps in WeWeb, featuring advanced interactive dashboards and visualizations",
+        "Setup data integrations with multiple CRM and Business platforms including Hubspot, Agentbox and Salesforce",
       ],
     },
     {
@@ -24,9 +25,13 @@ function Home() {
       position: "Account Executive",
       dateRange: "Feb 2022 - Dec 2024",
       responsibilities: [
-        "Built and managed enterprise level contracts with some of Australia's largest Real Estate Companies",
-        "3x Company Revenue and clients",
-        "Coached a sales team on effective Prospecting, Pitching and Closing",
+        "Managed at any one time 100 active clients",
+        "Pitched, sold and managed a large pipeline of prospective clients",
+        "Coached over 50 new and existing staff on prospecting and effectively completing day to day tasks",
+        "Managed day to day operations including setup and rostering",
+        "Managed and coached a Sales Team in Cold Calling prospective clients",
+        "Doubled company cliental in 12 months",
+        "Assisted in creating and managing Enterprise level arrangements with some of Australia’s largest Real Estate Brands.",
       ],
     },
     {
@@ -34,9 +39,11 @@ function Home() {
       position: "Department Manager",
       dateRange: "Mar 2018 - Feb 2022",
       responsibilities: [
-        "Ran the day to day operations of the store",
-        "Led a team of over 20 staff",
-        "Had the best KPI's in Australia",
+        "Supervised the day to day running of the store.",
+        "Supervised my team of 15 - 30 crew and assisted them in achieving set goals and targets.",
+        "Ran different departments including Stock, Rostering, Hiring and Training",
+        "Used time management and prioritisation skills to balance competing tasks",
+        "Was Employee of the year twice",
       ],
     },
   ];
